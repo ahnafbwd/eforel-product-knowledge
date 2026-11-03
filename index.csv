@@ -1,1 +1,2 @@
 part_number,brand,kategori,ringkasan,path,datasheet_url,versi_datasheet,status,status_verifikasi,dicek_terakhir,ditanya
+MIC-770-V3,Advantech,fanless-system,"Compact fanless system LGA1700 Intel Core 12-14th Gen/Series 2, R680E/H610E",advantech/fanless-system/MIC-770-V3.md,https://advdownload.advantech.com/productfile/PIS/MIC-770%20V3/file/MIC-770-V3_DS%28020626%2920260209102149.pdf,Last updated 6-Feb-2026,aktif,belum,2026-11-03,1
